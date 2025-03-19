@@ -1,0 +1,15 @@
+html, body {
+    background-color: antiquewhite;
+}
+
+.img-fluid{
+
+}
+
+footer{
+    background-color: aquamarine;
+    text-align: center;
+    /* margin: 12%; */
+    padding: 2%;
+}
+
